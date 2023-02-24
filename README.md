@@ -1,5 +1,5 @@
 ## General Info
-Atez Software Backend Bootcamp Work Repository.
+Atez Software Backend(Node.Js) Bootcamp Work Repository.
 
 ## Contents
 

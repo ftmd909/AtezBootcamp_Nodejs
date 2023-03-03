@@ -389,6 +389,13 @@ let productApi = new ProductApi();
 
 console.log(productApi.findByCategory("smartphones"))
 console.log(productApi.findByText("hp"))   //  brand: 'HP',
+console.log(productApi.findByText("tulpar")) //title: 'Tulpar T7',
+console.log(productApi.findByText("monster")) //brand: 'Monster',
+console.log(productApi.findByText("Apple product")) //description: 'An Apple product which is nothing like apple',
+
+
+
+
 
 
 
